@@ -21,6 +21,3 @@ if __name__ == '__main__':
     cv.imshow("result", res)
     cv.waitKey(0)
     print("DONE")
-
-
-
