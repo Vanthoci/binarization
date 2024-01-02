@@ -33,6 +33,3 @@ if __name__ == '__main__':
     file = open("ocrText.txt", 'w')
     file.write(txt)
     print("DONE")
-
-
-
